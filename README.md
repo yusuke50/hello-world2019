@@ -1,5 +1,4 @@
 # hello-world2019
 start learning again
 
-fotgot all of github
-so learn again
+https://gitbook.tw/chapters/introduction/about-this-book.html
